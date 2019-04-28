@@ -43,6 +43,7 @@ img.third {
     flex: 30%;
     padding: 10px;
     display: block;
+    padding-top: 50px;
     /* border: solid red 3px; */
 }
 
@@ -85,7 +86,6 @@ h3 {
 
 a.teamLinks {
     display: inline;
-    color: black;
 }
 
 a.link {
@@ -103,7 +103,6 @@ a.here {
 
 a.link:hover {
     color: #B55CA0;;
-    transition: color 1s;
 }
 
 ul {
@@ -121,4 +120,6 @@ img {
     width: 100%;
     height: auto;
 }
+
+
 
